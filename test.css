@@ -1,5 +1,5 @@
 body {
-background-image: url ('dark_wood.png');
+background-image: url('dark_wood_@2X.png');
 }
 
 #Header { 
@@ -19,14 +19,12 @@ h3 {
     font-family: "Passion One";
     margin-bottom: 0px;
 
-
 }
 
 p {
     color: white;
     font-family: "Arial";
     font-weight: bold;
-
 
 }
 
